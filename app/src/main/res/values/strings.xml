@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">simple-login-client</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="ip_servidor">IP SERVIDOR</string>
+    <string name="console">Console</string>
+</resources>
