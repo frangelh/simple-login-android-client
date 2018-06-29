@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
                             val token = userReturn?.user?.token
                             val profiles = userReturn?.user?.profiles
                             txt_console.text.append("Message: $message \n Token: $token \n Profiles: $profiles \n")
-                            txt_console.text.append("---------------------SEXY LINE SEPARATOR-----------------")
+                            txt_console.text.append("---------------------------------------------------")
 
                         }
                     }
